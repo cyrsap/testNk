@@ -18,4 +18,4 @@ add_executable(testTask src/main.cpp
 
 enable_testing()
 
-add_test(testTask testTask)
+add_test(testTask bin/testTask)
